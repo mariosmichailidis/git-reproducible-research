@@ -4,3 +4,4 @@ My reproducible research project
 My first commit to GitHub with R
 #hi again
 Some more changes.
+More edits on Github to test pulling in RStudio.
