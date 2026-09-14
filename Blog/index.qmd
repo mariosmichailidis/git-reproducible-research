@@ -1,5 +1,5 @@
 ---
-title: "Marios Blog"
+title: "Marios Blog 1"
 listing:
   contents: posts
   feed: true
