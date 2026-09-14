@@ -1,0 +1,19 @@
+---
+title: "Profile"
+image: Profile_picture.jpg
+about:
+  template: jolla
+  links:
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/marios-lazaros-michailidis/
+    - icon: github
+      text: Github
+      href: https://github.com/mariosmichailidis/
+
+---
+
+This is a blog about my progress in the Reproducible Research course.

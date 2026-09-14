@@ -1,0 +1,17 @@
+---
+title: "Day_1"
+author: "Marios Michailidis"
+date: "2026-09-14"
+categories: [news, code, analysis, day_1]
+image: "Sheep_picture.jpg"
+---
+
+This is my first post.
+
+Day 1 of the Reproducible Research course. In this post, I will share my experience and insights from the first day of the course.
+
+Today we played around git/github, we created branches and merged them. 
+
+Here's a picture of sheep I took during my sampling:
+![](Sheep_picture.jpg)
+
